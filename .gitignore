@@ -4,9 +4,6 @@ node_modules/
 # Build/Cache do Next.js
 .next/
 
-# Configurações locais
-.nvmrc
-
 # Arquivos de teste temporários
 teste.js
 
