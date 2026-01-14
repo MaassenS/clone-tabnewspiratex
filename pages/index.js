@@ -1,6 +1,5 @@
 function Home() {
-  return <h1>Site presentation</h1>;
-         <h2>Adding a new commit!</h2>
+  return <><h1>Site presentation</h1><h2>Adding a new commit!</h2></>;
 }
 
 export default Home;
